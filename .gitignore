@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+data/tamilnadu_solar_master.csv
+data/solar_random_forest.pkl
+
+.DS_Store
